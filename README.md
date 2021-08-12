@@ -11,7 +11,6 @@ go install github.com/dubyte/sparkpbmock@latest
 # Binary release
 - https://github.com/dubyte/sparkpbmock/releases
 
-
 # Usage 
 ```bash
 # in a terminal were a mqtt server is reachable
