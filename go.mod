@@ -1,4 +1,4 @@
-module github.com/dubyte/sparkpbmock
+module github.com/dubyte/sparkplugbmock
 
 go 1.16
 

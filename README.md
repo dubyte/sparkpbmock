@@ -3,10 +3,19 @@ sparkplugbmock
 
 Publish mock DDATA messages to mqtt listener:
 
-# usage 
+# Install
+```bash
+go install github.com/dubyte/sparkpbmock@latest
+```
+
+# Binary release
+- https://github.com/dubyte/sparkpbmock/releases
+
+
+# Usage 
 ```bash
 # in a terminal were a mqtt server is reachable
-./sparkplugbmock
+sparkplugbmock
 
 # in other terminal you could do one of the next ones
 # The output is binary
